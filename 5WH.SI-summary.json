@@ -1,0 +1,9 @@
+{
+    "ticker": "5WH.SI",
+    "url": "http://finance.yahoo.com/quote/5WH.SI?p=5WH.SI",
+    "quote": "0.1200",
+    "eps": 0.015,
+    "book_value": 0.108,
+    "quote_currency": "SGD",
+    "financial_currency": "USD"
+}

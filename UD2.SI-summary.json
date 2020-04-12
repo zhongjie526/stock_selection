@@ -1,0 +1,9 @@
+{
+    "ticker": "UD2.SI",
+    "url": "http://finance.yahoo.com/quote/UD2.SI?p=UD2.SI",
+    "quote": "0.4800",
+    "eps": 0.064,
+    "book_value": 0.473,
+    "quote_currency": "SGD",
+    "financial_currency": "USD"
+}
